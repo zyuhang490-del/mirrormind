@@ -17,3 +17,5 @@ Desktop.ini
 
 # 提取产物（含下划线前缀变体）
 *extracted.txt
+
+# 临时备份目录.git-backup/
