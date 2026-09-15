@@ -1,0 +1,19 @@
+﻿# 临时/中间产物
+tmp/
+extracted.txt
+
+# 编辑器与系统
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# AI 工具本地配置（含会话记录，按需保留）
+.claude/
+.agents/
+
+# OCR 中间产物（可由 PDF 重新生成）
+思想文献/赛博格宣言/OCR源文件/
+
+# 提取产物（含下划线前缀变体）
+*extracted.txt
