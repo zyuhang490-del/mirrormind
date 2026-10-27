@@ -1,5 +1,7 @@
 # MirrorMind 设计文档
 
+[English documentation](../docs/en/README.md)
+
 > 从哲学理念到工程实现，MirrorMind 的核心设计都在这里。
 
 ---

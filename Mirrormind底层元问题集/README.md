@@ -1,5 +1,7 @@
 # MirrorMind 底层元问题集
 
+[English version](../docs/en/foundational-questions.md)
+
 > 不是回答"怎么做"，而是追问"为什么"——设计理念与实现方式的底层问题。
 
 ---

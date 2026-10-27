@@ -1,5 +1,7 @@
 # MirrorReader
 
+[English version](../docs/en/mirrorreader.md)
+
 MirrorReader 是 MirrorMind 的一个最小阅读原型。它先解决一个具体问题：阅读被中断后，如何更容易继续，而不是一开始就做复杂的 AI 阅读软件。
 
 ## 当前阶段：阶段 1
