@@ -1,4 +1,8 @@
-=== PAGE 1 ===
+# As We May Think — related Resonance excerpt, English OCR transcription
+
+> Archived OCR text converted to Markdown on October 28, 2026. OCR errors and source pagination are retained; this is not a proofread edition. The related Resonance excerpt is distinct from the full original essay.
+
+## Source page 1
 Reflections 
 We excerpt below an article written by Vannevar Bush at the end of the second world war. At his time 
 the transistor had not been invented. Solid state electronics as we know today did not exist. Thus much 
@@ -32,7 +36,7 @@ Excerpted from the article 'As we may think' by Vannevar Bush, The Atlantic Mont
 RESONANCE I November 
 2000 
 
-=== PAGE 2 ===
+## Source page 2
 REFLECTIONS 
 It is the physicists who have been thrown most violently off stride, who have left academic 
 pursuits for the making of strange destructive gadgets, who have had to devise new 
@@ -71,7 +75,7 @@ lost to the world for a generation because his publication did not reach the few
 RESONANCE I November 
 2000 
 
-=== PAGE 3 ===
+## Source page 3
 REFLECTIONS 
 capable of grasping and extending it; and this sort of catastrophe is undoubtedly being 
 repeated all about us, as truly significant attainments become lost in the mass of the 
@@ -109,7 +113,7 @@ because it is of short focal length. There is a built-in photocell on the walnut
 RESONANCE I November 
 2000 
 
-=== PAGE 4 ===
+## Source page 4
 REFLECTIONS 
 now have on at least one camera, which automatically adjusts exposure for a wide range of 
 illumination. There is film in the walnut for a hundred exposures, and the spring for 
@@ -147,7 +151,7 @@ RESONANCE I November
 2000 
 97 
 
-=== PAGE 5 ===
+## Source page 5
 REFLECTIONS 
 which records in a phonetically simplified language a record of what the speaker is 
 supposed to have said. Later this strip is retyped into ordinary language, for in its nascent 
@@ -184,7 +188,7 @@ trails, the detail of mental pictures, is awe-inspiring beyond all else in natur
 RESONANCE I November 
 2000 
 
-=== PAGE 6 ===
+## Source page 6
 REFLECTIONS 
 Man cannot hope fully to duplicate this mental process artificially, but he certainly ought 
 to be able to learn from it. In minor ways he may even improve, for his records have 
@@ -221,7 +225,7 @@ positions. Frequently-used codes are mnemonic, so that he seldom consults his co
 RESONANCE I November 2000 
 99 
 
-=== PAGE 7 ===
+## Source page 7
 REFLECTIONS 
 book; but when he does, a single tap of a key projects it for his use. Moreover, he has 
 supplemental levers. On deflecting one of these levers to the right he runs through the· 
@@ -260,7 +264,7 @@ item can be joined into numerous trails.
 RESONANCE I November 
 2000 
 
-=== PAGE 8 ===
+## Source page 8
 REFLECTIONS 
 The owner of the memex, let us say, is interested in the origin and properties of the bow 
 and arrow. Specifically he is studying why the short Turkish bow was apparently superior 
@@ -297,7 +301,7 @@ The historian, with a vast chronological account of a people, parallels it with 
 whiCh stops only on the salient items, and can follow at any time· contemporary trails 
 -RE-S-O-N-A-N-C-E--I-N-o-v-em--be-r--2-0-0-0----------~-------------------------------10-1 
 
-=== PAGE 9 ===
+## Source page 9
 REFLECTIONS 
 which lead him all over civilization at a particular epoch. There is a new profession of trail 
 blazers, those who find delight in the task of establishing useful trails through the 
@@ -336,7 +340,7 @@ which information is conveyed to the brain, or in the marvelously metamorphosed 
 RESONANCE I November 
 2000 
 
-=== PAGE 10 ===
+## Source page 10
 REFLECTIONS 
 in which they then proceed to the hand? 
 By bone conduction we already introduce sounds: into the nerve channels of the deaf in 
@@ -370,4 +374,4 @@ desires of man, it would seem to be a singularly unfortunate stage at which to t
 process, or to lose hope as to the outcome. 
 --------~~------
 RESONANCE I November 2000 
-103 
+103

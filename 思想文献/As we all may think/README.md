@@ -9,24 +9,12 @@
 
 | 文件 | 说明 |
 |------|------|
-| `As we all may think 原文.pdf` | ✅ **真正的原文**（大西洋月刊1945年，9页） |
-| `As We May Think_中文翻译.md` | ✅ **全文翻译**（基于真正原文，含译者后记） |
-| `As we all may think-相关文献.pdf` | Resonance期刊2000年节选版（有删减，含V. Rajaraman编者按） |
-| `As We May Think-相关文献_中文翻译.md` | 节选版翻译 + **MirrorMind概念对比**（灵接、激发函数、自结构 vs Memex） |
+| [As We May Think_中文翻译.md](As%20We%20May%20Think_中文翻译.md) | 1945 年原文的现有中文全文翻译，含译者后记 |
+| [As We May Think_英文原文_OCR.md](As%20We%20May%20Think_英文原文_OCR.md) | 原文英文 OCR 转录；保留页码和识别错误，未经逐字校订 |
+| [As We May Think-相关文献_中文翻译.md](As%20We%20May%20Think-相关文献_中文翻译.md) | Resonance 2000 年节选及相关说明的现有中文翻译 |
+| [As We May Think_相关文献_英文OCR.md](As%20We%20May%20Think_相关文献_英文OCR.md) | 相关节选的英文 OCR 转录，不等同于完整原文 |
 
-### 两个版本的区别
-
-真正原文比节选版多了约一倍的篇幅，包含：
-- 莱布尼茨与巴贝奇的历史教训（"复杂性和不可靠性曾是同义词"）
-- 干式摄影的两种技术方案
-- 缩微胶片的压缩计算（大英百科全书→火柴盒，百万册图书馆→书桌一端）
-- 从算盘到穿孔卡到真空管计算机的完整谱系
-- 形式逻辑机器
-- 百货商店自动记账系统
-
-节选版把这些技术血肉全删了，只留下概念骨架。
-
----
+PDF 原件和 OCR TXT 中间文件仅保留在本地。GitHub 阅读入口统一为 Markdown；原文与后来的节选分别标注。
 
 ## 与 MirrorMind 的关系
 

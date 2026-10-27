@@ -34,7 +34,7 @@ This edition gives English-speaking reviewers a route through MirrorMind's proje
 | [Research and archive guide](research-guide.md) | [Research background](../../Mirrormind设计文档/视野拓展与专业积淀/视野拓展与专业积淀.md), [reading roadmap](../../Mirrormind设计文档/视野拓展与专业积淀/阅读路线图.md), literature and learning folders | Adapted guide; individual archive documents remain in Chinese |
 | [Glossary](glossary.md) | Terminology used across the design documents | Editorial terminology aid |
 
-The research-background essay, detailed reading roadmap, personal learning records, original Word documents, and third-party literature translations have **not** been translated in full in this edition. The research guide identifies those materials and their limitations. This is an English project-documentation edition, not a second repository or a claim that every archived file is bilingual.
+The research-background essay, detailed reading roadmap, personal learning records, historical source snapshots, and third-party literature translations have **not** been translated in full in this edition. The research guide identifies those materials and their limitations. This is an English project-documentation edition, not a second repository or a claim that every archived file is bilingual.
 
 ## Editorial conventions
 
@@ -44,3 +44,7 @@ The research-background essay, detailed reading roadmap, personal learning recor
 - Use [the glossary](glossary.md) consistently, especially for self-structuring, descriptive remainder, and inspiration connection.
 - Link back to Chinese source documents and keep existing filenames and directories intact.
 - When updating an English translation, compare the complete Chinese source again and update its source snapshot note. These translations currently track the October 7, 2026 concept revision, as read locally on October 27, 2026.
+
+## Archive format update — October 28, 2026
+
+Word originals have Markdown transcriptions or historical snapshots. PDF originals and intermediate OCR TXT files are local-only. Some literature topics still have only excerpts or discussion notes; their status is explicit in the [literature index](../../思想文献/README.md). The archival originals remain available locally and in earlier Git history.

@@ -50,7 +50,7 @@ For a team reviewing the project, the core [design](initial-manifesto.md), [mech
 | Material | Repository entry | Language and caveat |
 | --- | --- | --- |
 | As We May Think | [Archive index](../../思想文献/As%20we%20all%20may%20think/README.md) | Chinese translation and source archive; the index distinguishes the original essay from a related later article |
-| Man–Computer Symbiosis | [Chinese translation](../../思想文献/Man-Computer-Symbiosis/人机共生_中文翻译.md) | Chinese translation; source archive also contains a Word file |
+| Man–Computer Symbiosis | [Chinese translation](../../思想文献/Man-Computer-Symbiosis/人机共生_中文翻译.md) | Chinese translation; an [English Markdown transcription](../../思想文献/Man-Computer-Symbiosis/Man-Computer-Symbiosis.md) is also available |
 | The Extended Mind | [Chinese translation](../../思想文献/extended%20mind/延展心智_中文翻译.md) | Chinese reading material; no new English back-translation is provided |
 | A Cyborg Manifesto | [Archive index](../../思想文献/赛博格宣言/README.md) and [translation caveats](../../思想文献/赛博格宣言/赛博格宣言翻译补注_可能的漏洞.md) | The archive labels its Chinese translation as partial, approximately 40%; do not treat it as the complete essay |
 | The Question Concerning Technology | [Reading discussion](../../思想文献/技术的追问/阅读讨论/2026-08-06-技术的追问与集置讨论.md) | Chinese discussion of technology and enframing; source files are organized under the same topic |
@@ -64,6 +64,10 @@ Use original publications when assessing an author's argument. The repository's 
 - [MirrorReader progress](../../MirrorReader/PROGRESS_MirrorReader.md) records the stage 1 implementation.
 - [Developer learning records](../../MirrorReader/mirrorreader开发学习记录/README.md) distinguish software progress from the developer's demonstrated understanding. A running program is not evidence that its learner has mastered it.
 - [GitHub beginner guide](../../gitub学习路线/GitHub初学者路线指南.md) and [solo development workflow](../../gitub学习路线/单人项目开发规范与流程.md) are Chinese supporting learning materials.
-- [Foundational question 1](../../Mirrormind底层元问题集/原问题1：关于意识--信息交流性与物质组织性统一.docx) remains a Chinese Word archive; its synopsis is available in the [English foundational-question index](foundational-questions.md).
+- [Foundational question 1](../../Mirrormind底层元问题集/原问题1：关于意识--信息交流性与物质组织性统一.md) is now available as a Chinese Markdown transcription; its synopsis is available in the [English foundational-question index](foundational-questions.md).
 
-The personal learning records, full research-background essay, detailed roadmap, original Word files, and third-party literature translations remain outside the full English translation scope. Their presence documents the project's development; it does not establish completed research, validated scientific claims, or production readiness.
+The personal learning records, full research-background essay, detailed roadmap, historical source snapshots, and third-party literature translations remain outside the full English translation scope. Their presence documents the project's development; it does not establish completed research, validated scientific claims, or production readiness.
+
+## Markdown archive update — October 28, 2026
+
+Published reading material now uses Markdown. The [Chinese literature index](../../思想文献/README.md) distinguishes full translations, partial translations, OCR transcriptions, discussion notes, and topics without a full Markdown text. Word and PDF originals are local-only; this formatting change does not claim that every scanned source has been transcribed.

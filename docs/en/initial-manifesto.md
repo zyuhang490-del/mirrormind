@@ -4,9 +4,9 @@
 
 [English index](README.md) | [Chinese source](../../Mirrormind设计文档/初始设计文档/初始设计文档.md)
 
-Original archive: [Chinese Word document](../../Mirrormind设计文档/初始设计文档/初始设计文档.docx). Markdown conversion: July 27, 2026. Concept revision: October 7, 2026. English edition: October 27, 2026.
+Original archive: [Chinese historical Markdown snapshot](../../Mirrormind设计文档/初始设计文档/初始设计文档_原始版本.md). Markdown conversion: July 27, 2026. Concept revision: October 7, 2026. English edition: October 27, 2026.
 
-The original Word document preserves an early conception. The Chinese Markdown and this translation record subsequent conceptual development. See [Self-structuring and reverse state identification](self-structuring.md) for the detailed mechanism.
+The historical source snapshot preserves an early conception; its Word original is retained locally. The Chinese Markdown and this translation record subsequent conceptual development. See [Self-structuring and reverse state identification](self-structuring.md) for the detailed mechanism.
 
 **Editorial note:** This document is a manifesto. Its accounts of intelligence, creativity, consciousness, and future interfaces express the author's positions or hypotheses. They are not established scientific results or implemented capabilities.
 

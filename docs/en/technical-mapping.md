@@ -2,7 +2,7 @@
 
 [English index](README.md) | [Chinese source](../../Mirrormind设计文档/技术映射/技术映射.md)
 
-Original archive: 技术映射.docx, retained in the Chinese source directory. Markdown conversion: July 27, 2026. Concept update: October 7, 2026. English edition: October 27, 2026.
+Original archive: [historical Markdown snapshot](../../Mirrormind设计文档/技术映射/技术映射_原始版本.md), converted from the locally retained Word source. Markdown conversion: July 27, 2026. Concept update: October 7, 2026. English edition: October 27, 2026.
 
 **Editorial note:** Maturity ratings, named stacks, schedules, and feasibility statements below are historical author assessments. They have not been independently revalidated for this translation. The October 7 revision and the small [MirrorReader prototype](mirrorreader.md) define the current direction more accurately than the early whole-desktop proposal.
 

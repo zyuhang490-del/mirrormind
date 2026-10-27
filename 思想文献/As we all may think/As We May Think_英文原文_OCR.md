@@ -1,4 +1,8 @@
-=== PAGE 1 ===
+# As We May Think — English OCR transcription
+
+> Archived OCR text converted to Markdown on October 28, 2026. OCR errors and source pagination are retained; this is not a proofread edition. The related Resonance excerpt is distinct from the full original essay.
+
+## Source page 1
 Copyright C 1945 R 1973, by The Atlantic Monthly Company, Boston, Massachusetts. 
 Reprinted with permission. 
 AS WE MAY THINK 
@@ -112,7 +116,7 @@ thought, even in restricted fields, by close
 and continuous reading might well shy away from 
 Page 36. 
 
-=== PAGE 2 ===
+## Source page 2
 an examination calculated to show how much of 
 the previous month's efforts could be produced on 
 call. 
@@ -275,7 +279,7 @@ films impregnated with diazo dyes which form a
 picture without development, so that it is 
 Page 37 
 
-=== PAGE 3 ===
+## Source page 3
 already there as soon as the camera has been 
 operated. 
 An exposure to ammonia gas destroys 
@@ -444,7 +448,7 @@ tap a typewriter.
 Then comes the process of 
 Page 38 
 
-=== PAGE 4 ===
+## Source page 4
 typesetting, printing, and distribution. 
 To 
 consider the first stage of the procedure, will 
@@ -613,7 +617,7 @@ There will always
 be plenty of things to compute in the detailed 
 Page 39 
 
-=== PAGE 5 ===
+## Source page 5
 affairs of millions of people doing complicated 
 things. 
 The repetitive processes of ~hought are not 
@@ -774,7 +778,7 @@ which they are based, all encased within stone
 walls of acceptable architectural form; but if 
 Page 40 
 
-=== PAGE 6 ===
+## Source page 6
 the scholar can get at only one a week by diligent 
 search, his syntheses are not likely to keep up 
 with the current scene. 
@@ -947,7 +951,7 @@ not fully permanent, memory is transitory.
 Yet 
 Page 41 
 
-=== PAGE 7 ===
+## Source page 7
 the speed of action, the intricacy of trails, 
 the detail of mental picutres, is awe-inspring 
 beyond all else in nature. 
@@ -1119,7 +1123,7 @@ but sketchy article, leaves it projected.
 Next, 
 Page 42 
 
-=== PAGE 8 ===
+## Source page 8
 in a history, he finds another pertinent item, 
 and ties the two together. 
 Thus he goes, build- 
@@ -1280,7 +1284,7 @@ ways transform to mechanical movements in order
 to proceed from one electrical phenomenon to 
 Page 43 
 
-=== PAGE 9 ===
+## Source page 9
 another? 
 It is a suggestive thought, but it 
 hardly warrants prediction 
@@ -1318,4 +1322,4 @@ application of science to the needs and desires
 of man, it would seem to be a singularly un- 
 fortunate stage at which to terminate the process, 
 or to lose hope as to the outcome. 
-Page 44 
+Page 44

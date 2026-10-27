@@ -19,3 +19,9 @@ Desktop.ini
 *extracted.txt
 
 # 临时备份目录.git-backup/
+
+# GitHub 文档统一为 Markdown；原件和 OCR 中间文件仅保留在本地
+*.docx
+*.pdf
+/本地原件归档/
+思想文献/As we all may think/_english_ocr*.txt

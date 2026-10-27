@@ -19,7 +19,7 @@ Organize material around stable foundational questions rather than creating a fo
 
 | Question | Status | Coverage |
 | --- | --- | --- |
-| [Question 1: consciousness, information exchange, and material organization](../../Mirrormind底层元问题集/原问题1：关于意识--信息交流性与物质组织性统一.docx) | First round complete; Chinese Word archive | Consciousness and material carriers, a cyborg reframing, and self-critique |
+| [Question 1: consciousness, information exchange, and material organization](../../Mirrormind底层元问题集/原问题1：关于意识--信息交流性与物质组织性统一.md) | First round complete; Chinese Markdown archive | Consciousness and material carriers, a cyborg reframing, and self-critique |
 | [Question 2: symbolic representation and self-structuring](symbolic-representation.md) | Initial synthesis; translated | Descriptive remainder, failure descriptiveness, reverse state identification, and avoiding the equation of user model with person |
 
 ## Question 1: consciousness, information exchange, and material organization
@@ -43,7 +43,7 @@ Current weaknesses identified in the Chinese index:
 3. Some claims are difficult to test.
 4. Counterexamples capable of challenging the framework are still needed.
 
-The underlying Word document is not translated in this edition. This section translates the source index's synopsis.
+The underlying Chinese document is available as a Markdown transcription of the locally retained Word original. It is not translated into English in this edition; this section translates the source index's synopsis.
 
 ## Question 2: acting with incomplete symbolic representations
 

@@ -88,3 +88,7 @@ Useful contributions include challenging assumptions, defining falsifiable proto
 The English edition preserves the historical character of the design. Earlier feasibility claims, schedules, and proposed technology stacks are dated author assessments, not fresh technical endorsements or delivery commitments. See each document's editorial notes.
 
 The Chinese Markdown files remain the source for this edition. The English material reflects the local source snapshot prepared on **October 27, 2026**, including the conceptual revisions dated **October 7, 2026**. See the [coverage index](docs/en/README.md) for translations, adapted guides, and Chinese-only archives.
+
+## Repository document format
+
+As of October 28, 2026, published documentation uses Markdown. Word and PDF originals and intermediate OCR text are kept locally and excluded from future commits. Historical source content converted from Word remains available as Markdown snapshots. The runtime TXT sample and machine-readable RIS bibliography keep their original formats. See the [literature index](思想文献/README.md) for full-text, excerpt, discussion-only, and missing-transcription labels.
